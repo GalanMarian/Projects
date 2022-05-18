@@ -1,0 +1,47 @@
+
+n	java:S127»"XRefactor the code in order to not assign to this loop counter from within the loop body.(®‹Ãê
+s	java:S127¼"XRefactor the code in order to not assign to this loop counter from within the loop body.(Õ¦é¨ùÿÿÿÿ
+K
+java:S1066ì"/Merge this if statement with the enclosing one.(÷™­şÿÿÿÿ
+R
+java:S4973¶"<Strings and Boxed types should be compared using "equals()".(ä­«S
+X
+java:S4973Ç"<Strings and Boxed types should be compared using "equals()".(ÜĞĞŠúÿÿÿÿ
+X
+java:S4973Ç"<Strings and Boxed types should be compared using "equals()".(ÜĞĞŠúÿÿÿÿ
+S
+java:S4973Ø"<Strings and Boxed types should be compared using "equals()".(øè‡ö
+X
+java:S4973ş"<Strings and Boxed types should be compared using "equals()".(Î’å·ùÿÿÿÿ
+S
+java:S4973“"<Strings and Boxed types should be compared using "equals()".(ÄÚÌæ
+^
+java:S2184ì"BCast one of the operands of this division operation to a "double".(÷™­şÿÿÿÿ
+8
+java:S1659""Declare "cols" on a separate line.(æØë
+@
+java:S1659"*Declare "canvasHeight" on a separate line.(¿µóı
+D
+java:S1659")Declare "boardHeight" on a separate line.(ØÛ—Şşÿÿÿÿ
+>
+java:S1659"(Declare "cellHeight" on a separate line.(«í·
+8
+java:S1659""Declare "padY" on a separate line.(õÊøû
+B
+java:S1948"'Make "image" transient or serializable.(¢Õ´¯şÿÿÿÿ
+A
+java:S1948"+Make "offscreen" transient or serializable.(˜à„Ó
+A
+java:S1948"&Make "game" transient or serializable.(ÌÆ¿ ıÿÿÿÿ
+U
+java:S1161j":Add the "@Override" annotation above this method signature(ÃÅñÛüÿÿÿÿ
+h
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(œìÙ§
+4
+java:S2119~"Save and re-use this "Random".(’Æ§ò
+V
+java:S1659×"?Declare "x2" and all following declarations on a separate line.(ò£±È
+n
+java:S3776ã"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(È¸üÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'javafx.util.Pair'.(û­ûºüÿÿÿÿ
